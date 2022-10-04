@@ -12,7 +12,7 @@ document.write(
     ))
 )
 
-// Empty your list
+// Empty your list 
 guests4.pop() 
 guests4.pop()
 document.write("Empty List: []") 
